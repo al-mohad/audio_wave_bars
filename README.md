@@ -3,7 +3,7 @@
 A package provides an easy way to add wave bars in Flutter project.
 
 <p>
-    <img src="https://github.com/al-mohad/audio_progress_bars/blob/main/screenshots/wavebar.gif?raw=true" width=300px/>
+    <img src="https://github.com/al-mohad/audio_progress_bars/screenshots/wavebar.gif?raw=true" width=300px/>
 </p>
 
 ## Getting Started
